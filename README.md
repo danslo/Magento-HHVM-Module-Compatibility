@@ -15,11 +15,11 @@ This is a standard Magento installation that I use for testing popular module's 
   - Nexcess_Turpentine
   - Cm_Cache_Backend_Redis (note: does not work with standalone mode)
   - Made_Cache
+  - Aoe_Profiler
 
 ### Untested modules
 
   - Aoe_Scheduler
-  - Aoe_Profiler
 
 ## Please test my module too?
 
