@@ -3,3 +3,5 @@
 /nbproject
 /app/etc/local.xml
 .DS_Store
+/vendor
+/composer.lock

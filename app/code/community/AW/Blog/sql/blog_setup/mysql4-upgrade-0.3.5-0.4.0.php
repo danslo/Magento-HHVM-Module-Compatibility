@@ -1,0 +1,1 @@
+../../../../../../../vendor/connect20/AW_Blog/app/code/community/AW/Blog/sql/blog_setup/mysql4-upgrade-0.3.5-0.4.0.php
