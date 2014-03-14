@@ -13,7 +13,9 @@ This is a standard Magento installation that I use for testing popular module's 
 
   - AW_Blog
   - Nexcess_Turpentine
-  - Cm_Cache_Backend_Redis (note: does not work with standalone mode)
+  - Cm_Cache_Backend_Redis note:
+    - Does not work with named persistent connections. (disable ``persistent``) 
+    - Does not work with standalone mode. (disable ``force_standalone``)
   - Made_Cache
   - Aoe_Profiler
 
