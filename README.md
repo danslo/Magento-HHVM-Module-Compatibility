@@ -18,6 +18,7 @@ This is a standard Magento installation that I use for testing popular module's 
     - Does not work with standalone mode. (disable ``force_standalone``)
   - Made_Cache
   - Aoe_Profiler
+  - Danslo_HiphopIndexer
 
 ### Untested modules
 
