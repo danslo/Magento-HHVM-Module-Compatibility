@@ -11,9 +11,14 @@
         "nexcess/magento-turpentine":"0.6.0",
         "colinmollenhour/cache-backend-redis":"1.5",
         "madepeople/made-cache": "1.4.7",
-        "danslo/hiphop-indexer": "0.1.0"
+        "danslo/hiphop-indexer": "0.1.0",
+		"lesti/fpc": "dev-master#dbc6f7a8e085addd17c3015bfa3a37919de7164f"
     },
     "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/GordonLesti/Lesti_Fpc.git"
+        },
         {
             "type": "vcs",
             "url": "https://github.com/danslo/HiphopIndexer.git"

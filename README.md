@@ -19,10 +19,11 @@ This is a standard Magento installation that I use for testing popular module's 
   - Made_Cache
   - Aoe_Profiler
   - Danslo_HiphopIndexer
+  - Aoe_Scheduler
+  - Lesti_Fpc
 
 ### Untested modules
 
-  - Aoe_Scheduler
 
 ## Please test my module too?
 
