@@ -1,0 +1,1 @@
+../../../vendor/phoenix-media/magento-cashondelivery/js/phoenix/cashondelivery/sales.js

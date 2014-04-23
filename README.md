@@ -23,6 +23,7 @@ This is a standard Magento installation that I use for testing popular module's 
   - Lesti_Fpc
   - Rubic_FixTotalSorting
   - TBT_EnhancedGrid
+  - Phoenix_CashOnDelivery
 
 ### Untested modules
 
