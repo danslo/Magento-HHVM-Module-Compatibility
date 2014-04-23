@@ -27,8 +27,11 @@ This is a standard Magento installation that I use for testing popular module's 
 
 ### Untested modules
 
-  - OnePica_AvaTax
 
+### Not working modules
+
+  - OnePica_AvaTax
+    - Currently contains an issue where HHVM cannot properly decode a SOAP request.
 
 ## Please test my module too?
 
