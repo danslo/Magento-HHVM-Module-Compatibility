@@ -25,6 +25,7 @@ This is a standard Magento installation that I use for testing popular module's 
   - TBT_EnhancedGrid
   - Phoenix_CashOnDelivery
   - RicoNeitzel_VertNav
+  - Netzarbeiter_CustomerActivation
 
 ### Untested modules
 

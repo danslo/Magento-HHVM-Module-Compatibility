@@ -17,7 +17,8 @@
         "rubic/fix-total-sorting": "0.0.1",
         "connect20/tbt_enhancedgrid": "1.2.1.1",
         "phoenix-media/magento-cashondelivery": "dev-master#01565154675b494aec1ff15a63c7c11b295ff4e3",
-        "riconeitzel/vertical-navigation": "0.4.3"
+        "riconeitzel/vertical-navigation": "0.4.3",
+        "netzarbeiter/customer-activation": "0.5.2"
     },
     "repositories": [
         {
@@ -55,6 +56,10 @@
         {
             "type": "vcs",
             "url": "https://github.com/riconeitzel/VertNav"
+        },
+        {
+            "type": "vcs",
+            "url": "https://github.com/Vinai/customer-activation"
         },
         {
             "type": "composer",
