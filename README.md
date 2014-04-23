@@ -24,6 +24,7 @@ This is a standard Magento installation that I use for testing popular module's 
   - Rubic_FixTotalSorting
   - TBT_EnhancedGrid
   - Phoenix_CashOnDelivery
+  - RicoNeitzel_VertNav
 
 ### Untested modules
 

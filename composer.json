@@ -16,7 +16,8 @@
         "onepica/avatax": "dev-master#6a68cd2318419184e99401b13ce5a0463f534469",
         "rubic/fix-total-sorting": "0.0.1",
         "connect20/tbt_enhancedgrid": "1.2.1.1",
-        "phoenix-media/magento-cashondelivery": "dev-master#01565154675b494aec1ff15a63c7c11b295ff4e3"
+        "phoenix-media/magento-cashondelivery": "dev-master#01565154675b494aec1ff15a63c7c11b295ff4e3",
+        "riconeitzel/vertical-navigation": "0.4.3"
     },
     "repositories": [
         {
@@ -50,6 +51,10 @@
         {
             "type": "vcs",
             "url": "https://github.com/PHOENIX-MEDIA/Magento-CashOnDelivery"
+        },
+        {
+            "type": "vcs",
+            "url": "https://github.com/riconeitzel/VertNav"
         },
         {
             "type": "composer",
