@@ -21,8 +21,12 @@ This is a standard Magento installation that I use for testing popular module's 
   - Danslo_HiphopIndexer
   - Aoe_Scheduler
   - Lesti_Fpc
+  - Rubic_FixTotalSorting
 
 ### Untested modules
+
+  - TBT_EnhancedGrid
+  - OnePica_AvaTax
 
 
 ## Please test my module too?

@@ -5,14 +5,17 @@
     "require": {
         "magento-hackathon/magento-composer-installer":"dev-master",
         
-        "fbrnc/aoe_scheduler":"0.3.2",
-        "fbrnc/aoe_profiler":"0.3.0",
-        "connect20/aw_blog":"1.3.1",
-        "nexcess/magento-turpentine":"0.6.0",
-        "colinmollenhour/cache-backend-redis":"1.5",
+        "fbrnc/aoe_scheduler": "0.3.2",
+        "fbrnc/aoe_profiler": "0.3.0",
+        "connect20/aw_blog": "1.3.1",
+        "nexcess/magento-turpentine": "0.6.0",
+        "colinmollenhour/cache-backend-redis": "1.5",
         "madepeople/made-cache": "1.4.7",
         "danslo/hiphop-indexer": "0.1.0",
-		"lesti/fpc": "dev-master#dbc6f7a8e085addd17c3015bfa3a37919de7164f"
+        "lesti/fpc": "dev-master#dbc6f7a8e085addd17c3015bfa3a37919de7164f",
+        "onepica/avatax": "dev-master#6a68cd2318419184e99401b13ce5a0463f534469",
+        "rubic/fix-total-sorting": "0.0.1",
+        "connect20/tbt_enhancedgrid": "1.031"
     },
     "repositories": [
         {
@@ -38,6 +41,10 @@
         {
             "type": "vcs",
             "url": "https://github.com/madepeople/Made_Cache"
+        },
+        {
+            "type": "vcs",
+            "url": "https://github.com/danslo/Rubic_FixTotalSorting"
         },
         {
             "type": "composer",
