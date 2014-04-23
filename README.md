@@ -22,10 +22,10 @@ This is a standard Magento installation that I use for testing popular module's 
   - Aoe_Scheduler
   - Lesti_Fpc
   - Rubic_FixTotalSorting
+  - TBT_EnhancedGrid
 
 ### Untested modules
 
-  - TBT_EnhancedGrid
   - OnePica_AvaTax
 
 
