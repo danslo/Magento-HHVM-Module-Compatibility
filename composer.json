@@ -22,44 +22,158 @@
     },
     "repositories": [
         {
-            "type": "vcs",
-            "url": "https://github.com/GordonLesti/Lesti_Fpc"
+            "type": "package",
+            "package": {
+                "name": "lesti/fpc",
+                "version": "dev-master",
+                "dist": {
+                    "url": "https://github.com/GordonLesti/Lesti_Fpc/archive/master.zip",
+                    "type": "zip"
+                }
+            }
         },
         {
-            "type": "vcs",
-            "url": "https://github.com/danslo/HiphopIndexer"
+            "type": "package",
+            "package": {
+                "name": "danslo/hiphop-indexer",
+                "version": "dev-master",
+                "dist": {
+                    "url": "https://github.com/danslo/HiphopIndexer/archive/master.zip",
+                    "type": "zip"
+                }
+            }
         },
         {
-            "type": "vcs",
-            "url": "https://github.com/magento-hackathon/magento-composer-installer"
+            "type": "package",
+            "package": {
+                "name": "danslo/hiphop-indexer",
+                "version": "0.1.0",
+                "dist": {
+                    "url": "https://github.com/danslo/HiphopIndexer/archive/0.1.0.zip",
+                    "type": "zip"
+                }
+            }
         },
         {
-            "type": "vcs",
-            "url": "https://github.com/nexcess/magento-turpentine"
+            "type": "package",
+            "package": {
+                "name": "magento-hackathon/magento-composer-installer",
+                "version": "dev-master",
+                "dist": {
+                    "url": "https://github.com/magento-hackathon/magento-composer-installer/archive/master.zip",
+                    "type": "zip"
+                }
+            }
         },
         {
-            "type": "vcs",
-            "url": "https://github.com/colinmollenhour/Cm_Cache_Backend_Redis"
+            "type": "package",
+            "package": {
+                "name": "nexcess/magento-turpentine",
+                "version": "dev-master",
+                "dist": {
+                    "url": "https://github.com/nexcess/magento-turpentine/archive/master.zip",
+                    "type": "zip"
+                }
+            }
         },
         {
-            "type": "vcs",
-            "url": "https://github.com/madepeople/Made_Cache"
+            "type": "package",
+            "package": {
+                "name": "nexcess/magento-turpentine",
+                "version": "0.6.0",
+                "dist": {
+                    "url": "https://github.com/nexcess/magento-turpentine/archive/release-0.6.0.zip",
+                    "type": "zip"
+                }
+            }
         },
         {
-            "type": "vcs",
-            "url": "https://github.com/danslo/Rubic_FixTotalSorting"
+            "type": "package",
+            "package": {
+                "name": "colinmollenhour/cache-backend-redis",
+                "version": "dev-master",
+                "dist": {
+                    "url": "https://github.com/colinmollenhour/Cm_Cache_Backend_Redis/archive/master.zip",
+                    "type": "zip"
+                }
+            }
         },
         {
-            "type": "vcs",
-            "url": "https://github.com/PHOENIX-MEDIA/Magento-CashOnDelivery"
+            "type": "package",
+            "package": {
+                "name": "madepeople/made-cache",
+                "version": "dev-master",
+                "dist": {
+                    "url": "https://github.com/madepeople/Made_Cache/archive/master.zip",
+                    "type": "zip"
+                }
+            }
         },
         {
-            "type": "vcs",
-            "url": "https://github.com/riconeitzel/VertNav"
+            "type": "package",
+            "package": {
+                "name": "madepeople/made-cache",
+                "version": "1.4.7",
+                "dist": {
+                    "url": "https://github.com/madepeople/Made_Cache/archive/1.4.7.zip",
+                    "type": "zip"
+                }
+            }
         },
         {
-            "type": "vcs",
-            "url": "https://github.com/Vinai/customer-activation"
+            "type": "package",
+            "package": {
+                "name": "rubic/fix-total-sorting",
+                "version": "dev-master",
+                "dist": {
+                    "url": "https://github.com/danslo/Rubic_FixTotalSorting/archive/master.zip",
+                    "type": "zip"
+                }
+            }
+        },
+        {
+            "type": "package",
+            "package": {
+                "name": "rubic/fix-total-sorting",
+                "version": "0.0.1",
+                "dist": {
+                    "url": "https://github.com/danslo/Rubic_FixTotalSorting/archive/0.0.1.zip",
+                    "type": "zip"
+                }
+            }
+        },
+        {
+            "type": "package",
+            "package": {
+                "name": "phoenix-media/magento-cashondelivery",
+                "version": "dev-master",
+                "dist": {
+                    "url": "https://github.com/PHOENIX-MEDIA/Magento-CashOnDelivery/archive/master.zip",
+                    "type": "zip"
+                }
+            }
+        },
+        {
+            "type": "package",
+            "package": {
+                "name": "riconeitzel/vertical-navigation",
+                "version": "dev-master",
+                "dist": {
+                    "url": "https://github.com/riconeitzel/VertNav/archive/master.zip",
+                    "type": "zip"
+                }
+            }
+        },
+        {
+            "type": "package",
+            "package": {
+                "name": "netzarbeiter/customer-activation",
+                "version": "dev-master",
+                "dist": {
+                    "url": "https://github.com/Vinai/customer-activation/archive/master.zip",
+                    "type": "zip"
+                }
+            }
         },
         {
             "type": "composer",
